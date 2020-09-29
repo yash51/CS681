@@ -6,3 +6,6 @@ HW01:
   ant -f build.xml
 
   on a shell. 
+  
+Simple implementation Oberver and Observable using Lambda
+
