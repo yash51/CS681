@@ -16,3 +16,12 @@ HW02:
 
   on a shell. 
 Implemented 4 different sorting policies- price-, year-, mileage-, and domination rank using Stream API in ascending order.
+
+HW03:
+  To run this build script, type: 
+
+  ant -f build.xml
+
+  on a shell. 
+Implemented min(), max() and count() with reduce() for a stream of Car instances.
+Note– Implementing min() with reduce()
