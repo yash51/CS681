@@ -25,3 +25,11 @@ HW03:
   on a shell. 
 Implemented min(), max() and count() with reduce() for a stream of Car instances.
 Note– Implementing min() with reduce()
+
+HW04:
+  To run this build script, type: 
+
+  ant -f build.xml
+
+  on a shell. 
+Defined Player data processing scenario and implement it with Stream API
