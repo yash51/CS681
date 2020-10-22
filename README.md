@@ -33,3 +33,12 @@ HW04:
 
   on a shell. 
 Defined Player data processing scenario and implement it with Stream API
+
+HW05:
+  To run this build script, type: 
+
+  ant -f build.xml
+
+  on a shell. 
+Measured the overhead of generating primes in b/w 1 and 2M to
+see how threads run.
