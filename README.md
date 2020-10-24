@@ -42,3 +42,12 @@ HW05:
   on a shell. 
 Measured the overhead of generating primes in b/w 1 and 2M to
 see how threads run.
+
+HW06:
+  To run this build script, type: 
+
+  ant -f build.xml
+
+  on a shell. 
+Revised RunnableCancellablePrimeGenerator to be
+thread-safe
