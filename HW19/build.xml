@@ -30,7 +30,7 @@
 	     
 	   </target>
 	   <target name="run" depends="compile">
-	   	<java classname="edu.umb.cs.cs681.hw19.Car">
+	   	<java classname="edu.umb.cs681.hw19.Car">
 	   			<classpath refid="classpath"></classpath>
 	   		</java>
 	   
